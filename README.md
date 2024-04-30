@@ -5,7 +5,9 @@
 
 **Please check out some of my projects below!** 
 
-Node.js Blog API: https://github.com/BenPhillips-21/blogAPI
+Messenger Application: https://github.com/BenPhillips-21/messengerAppFrontend   ---> (Full stack MERN app)
+
+Node.js Blog API: https://github.com/BenPhillips-21/blogAPI   ---> (Full stack MERN app)
 
 Vanilla JavaScript Version of BattleShip: https://github.com/BenPhillips-21/battleShip
 
