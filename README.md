@@ -1,7 +1,8 @@
-- 👋 G'day, my name is Ben! I'm a software developer!
-- 👀 I’m interested in the MERN stack and I love building stuff.
+- 👋 G'day, my name is Ben! I'm a software developer from Melbourne, Australia 🇦🇺
+- 👀 I’m interested in the MERN stack and I right now I'm building full stack web applications!
 - 🌱 I’m currently learning Node.js through the online coding curriculum 'The Odin Project'.
 - 📫 Reach out to me here... E-mail: pben012@gmail.com
+- 📍 Melbourne, Australia 
 
 **Please check out some of my projects below!** 
 
