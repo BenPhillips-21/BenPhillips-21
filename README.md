@@ -9,7 +9,7 @@ Social Media MERN Application: https://github.com/BenPhillips-21/Y-Frontend
 
 Messenger MERN Application: https://github.com/BenPhillips-21/messengerAppFrontend 
 
-Node.js Blog API: https://github.com/BenPhillips-21/blogAPI   ---> (Full stack MERN app)
+Node.js Blog API: https://github.com/BenPhillips-21/blogAPI 
 
 Vanilla JavaScript Version of BattleShip: https://github.com/BenPhillips-21/battleShip
 
