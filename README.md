@@ -1,11 +1,13 @@
 - 👋 G'day, my name is Ben! I'm a software developer from Melbourne, Australia 🇦🇺
-- 👀 I’m interested in the MERN stack right now I'm building full stack web applications!
-- 🌱 I’m currently learning Node.js through the online coding curriculum 'The Odin Project'.
+- 👀 I've just finished learning the MERN stack and now I'm interested in expanding my skillset into mobile development.
+- 🌱 I’m currently learning TypeScript through with 'Full Stack Open'.
 - 📫 Reach out to me here... E-mail: pben012@gmail.com
 
 **Please check out some of my projects below!** 
 
-Messenger Application: https://github.com/BenPhillips-21/messengerAppFrontend   ---> (Full stack MERN app)
+Social Media MERN Application: https://github.com/BenPhillips-21/Y-Frontend
+
+Messenger MERN Application: https://github.com/BenPhillips-21/messengerAppFrontend 
 
 Node.js Blog API: https://github.com/BenPhillips-21/blogAPI   ---> (Full stack MERN app)
 
