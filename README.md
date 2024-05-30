@@ -1,6 +1,6 @@
 - 👋 G'day, my name is Ben! I'm a software developer from Melbourne, Australia 🇦🇺
 - 👀 I've just finished learning the MERN stack and now I'm interested in expanding my skillset into mobile development.
-- 🌱 I’m currently learning TypeScript through with 'Full Stack Open'.
+- 🌱 I’m currently learning TypeScript!
 - 📫 Reach out to me here... E-mail: pben012@gmail.com
 
 **Please check out some of my projects below!** 
