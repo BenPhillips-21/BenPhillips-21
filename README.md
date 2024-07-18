@@ -13,8 +13,6 @@ Node.js Blog API: https://github.com/BenPhillips-21/blogAPI
 
 Vanilla JavaScript Version of BattleShip: https://github.com/BenPhillips-21/battleShip
 
-'Members Only' Node.js App: https://github.com/BenPhillips-21/membersOnly
-
 Online E-Commerce Store React App: https://github.com/BenPhillips-21/shoppingCart
 
 To-Do List React App: https://github.com/BenPhillips-21/to-do
