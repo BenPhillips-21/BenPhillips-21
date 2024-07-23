@@ -1,5 +1,5 @@
 - 👋 G'day, my name is Ben! I'm a software developer from Melbourne, Australia 🇦🇺
-- 📫 Reach out to me here... pben012@gmail.com
+- 📫 Reach out to me here: pben012@gmail.com
 
 
 **See My Portfolio:**  https://ben-phillips-portfolio.vercel.app/
